@@ -1,15 +1,15 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
+title: Supervans
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
-hero: 
+hero:
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Supervans
+    hero_description: Supervans provide custom electronics installers the installation materials they require to be efficient and effective in the field. We provide storage and organization systems to ensure installer are always prepared for their jobs.
 
 # Contact form
 api_token: # Enter API token here
@@ -33,7 +33,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: 5239 Fairmont Street, Vancouver
     address_details: svg/min/logo.svg
 
 # Social settings
@@ -45,7 +45,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2016 Supervans - All rights reserved
 
 # Build settings
 markdown: kramdown
@@ -61,5 +61,5 @@ exclude: [
 ]
 
 # Theme Settings
-analytics: 
+analytics:
 google_verification:
