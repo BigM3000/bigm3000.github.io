@@ -16,15 +16,15 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
+    phone: 1 800 604 1280
     emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    email: info@supervans.co
+    address: 5239 Fairmont Street, <br> Vancouver, V5R3V4, BC, Canada
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: 7:00AM PST – 18:00 PST
+saturday: Closed
+sunday: Closed
 
 # Testimonials
 testimonials:
