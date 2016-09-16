@@ -25,15 +25,12 @@
 
     /* Team slideshow
     ----------------------------------------------*/
-    $("#myCarousel").owlCarousel({
- 
-        autoPlay: 5000, //Set AutoPlay to 5 seconds
-
-        items : 3,
-        itemsDesktopSmall : [979,3],
-        stopOnHover: true
- 
-    });
+  //  $("#myCarousel").owlCarousel({
+  //   navigation : false, // Show next and prev buttons
+  //     slideSpeed : 300,
+  //     paginationSpeed : 400,
+  //     singleItem:true
+  // });
 
     /* Testimonials slideshow
     ----------------------------------------------*/
