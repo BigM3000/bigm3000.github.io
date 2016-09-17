@@ -6823,7 +6823,8 @@ img.mfp-img {
   max-height: 60px; }
 
 .container-overlay {
-  background: rgba(0, 0, 0, 0.5); }
+  background: rgba(0, 0, 0, 0.5);
+  padding: 5spx; }
 
 .carousel {
   height: 500px; }
