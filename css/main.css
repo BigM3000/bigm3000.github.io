@@ -6817,6 +6817,12 @@ img.mfp-img {
   right: 0;
   padding-top: 0; }
 
+.hero-content .hero-content-inner {
+  width: 60%; }
+
+.how {
+  font-size: 25px; }
+
 .navbar-brand > img {
   display: inline-block;
   width: 50%;
