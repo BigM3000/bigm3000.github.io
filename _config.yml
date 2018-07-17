@@ -1,6 +1,6 @@
 # Site settings
 title: Supervans
-description: "A responsive Jekyll theme for dental clinics."
+description: "Supervans is committed to improving the efficiency of custom electronics technicians. Efficiency is the secret to profitability and growth."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: img/supervan.png
@@ -19,7 +19,7 @@ contact:
     phone: 1.800.811.1692
     emergency: 931 53 234
     email: info@supervans.co
-    address: 5239 Fairmont Street, <br> Vancouver, V5R3V4, BC, Canada
+    address: 5239 Fairmont Street, <br> Vancouver BC V5R 3V4, <br>Canada
 
 # Opening hours
 monday_friday: 7:00AM PST – 18:00 PST
